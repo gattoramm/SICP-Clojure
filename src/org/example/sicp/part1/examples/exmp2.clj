@@ -10,5 +10,3 @@
           (sqr-iter [x y] (if (good-enough? x y) x (sqr-iter (improve x y) y)))
           ]
   (sqr-iter 1.0 x)))
-
-(println "Ex2. sqrt of 5 ="(sqrt 5))
