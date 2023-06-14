@@ -1,0 +1,7 @@
+(ns org.example.sicp.core
+  (:gen-class))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "This is SICP solutions. See README.md"))
