@@ -1,5 +1,4 @@
 # Default ignored files
-.idea/*
-/workspace.xml
-/vcs.xml
-SICP-Clojure.iml
+.idea
+*.xml
+*.iml
